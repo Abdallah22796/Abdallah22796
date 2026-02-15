@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋 I'm Abdallah Mohammed  
 
-<!--
-**Abdallah22796/Abdallah22796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+📱 Flutter Developer  
+🚀 Aspiring Software Mobile Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- CS Student with strong programming fundamentals  
+- Flutter Developer building cross-platform mobile applications  
+- Experience integrating REST APIs (GET & POST)  
+- Worked with Flask & JavaScript backends  
+- Solid understanding of Business Logic & Application Architecture  
+- UI-focused with knowledge of UX principles  
+- Strong problem-solving skills using C++ & Dart  
+- Interested in Product-Oriented Development  
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming Languages
+- C++
+- Python
+- Java
+- JavaScript
+- Dart
+- HTML
+- CSS
+
+### 📱 Mobile Development
+- Flutter
+- REST API Integration
+- State Management (Provider / Riverpod)
+- Business Logic Implementation
+
+### 🗄 Database
+- SQL
+- Database Design Basics
+
+### 🌐 Backend & Integration
+- Flask
+- JavaScript Backend
+- API Development & Integration
+
+### 🤖 AI & Data Background
+- Machine Learning fundamentals
+- Computer Vision basics
+- NLP basics
+
+---
+
+## 🌱 Currently Learning
+- Advanced Flutter Architecture
+- Performance Optimization
+- Clean Architecture
+- Scalable System Design
+
+---
+
+## 🎯 Career Goal
+To become a professional Software Mobile Developer building scalable, maintainable, and high-performance applications.
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (Put your link here)
+- Email: abdallaakhodm@gmail.com
+
+---
+
+⭐ Always building. Always improving.
