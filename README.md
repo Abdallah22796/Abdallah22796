@@ -66,7 +66,7 @@ To become a professional Software Mobile Developer building scalable, maintainab
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (Put your link here)
+- LinkedIn: (www.linkedin.com/in/abdallah-mohamed-ba7204292)
 - Email: abdallaakhodm@gmail.com
 
 ---
