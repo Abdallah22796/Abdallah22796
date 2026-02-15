@@ -1,74 +1,104 @@
-# Hi 👋 I'm Abdallah Mohammed  
+<h1 align="center">Hi 👋, I'm Abdallah Mohammed</h1>
+<h3 align="center">🎓 CS Student | 📱 Flutter Developer | 🚀 Aspiring Software Mobile Developer</h3>
 
-🎓 Computer Science Student  
-📱 Flutter Developer  
-🚀 Aspiring Software Mobile Developer  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdallah-mohamed-ba7204292">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdallah%20Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abdallaakhodm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- CS Student with strong programming fundamentals  
-- Flutter Developer building cross-platform mobile applications  
-- Experience integrating REST APIs (GET & POST)  
-- Worked with Flask & JavaScript backends  
-- Solid understanding of Business Logic & Application Architecture  
-- UI-focused with knowledge of UX principles  
-- Strong problem-solving skills using C++ & Dart  
-- Interested in Product-Oriented Development  
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 Computer Science Student with strong programming fundamentals  
+- 📱 Building scalable cross-platform mobile apps using Flutter  
+- 🔗 Experienced in REST API Integration (GET & POST)  
+- 🌐 Worked with Flask & JavaScript Backends  
+- 🏗 Solid understanding of Business Logic & Application Architecture  
+- 🎨 UI-focused with UX background  
+- 🧠 Strong problem-solving skills using C++ & Dart  
+- 📦 Interested in Product-Oriented Development  
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-### 💻 Programming Languages
-- C++
-- Python
-- Java
-- JavaScript
-- Dart
-- HTML
-- CSS
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,dart,html,css" />
+</p>
 
 ### 📱 Mobile Development
-- Flutter
-- REST API Integration
-- State Management (Provider / Riverpod)
-- Business Logic Implementation
+<p>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+- REST API Integration  
+- State Management (Provider / Riverpod)  
+- Business Logic Implementation  
 
 ### 🗄 Database
-- SQL
-- Database Design Basics
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### 🌐 Backend & Integration
-- Flask
-- JavaScript Backend
-- API Development & Integration
-
-### 🤖 AI & Data Background
-- Machine Learning fundamentals
-- Computer Vision basics
-- NLP basics
+### 🌐 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=flask,nodejs" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Flutter Architecture
-- Performance Optimization
-- Clean Architecture
-- Scalable System Design
+## 🤖 AI & Data Background
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+- Machine Learning Fundamentals  
+- Computer Vision Basics  
+- NLP Basics  
 
 ---
 
-## 🎯 Career Goal
-To become a professional Software Mobile Developer building scalable, maintainable, and high-performance applications.
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Enthusiast;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdallah22796&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: (www.linkedin.com/in/abdallah-mohamed-ba7204292)
-- Email: abdallaakhodm@gmail.com
+## 🌱 Currently Learning & Improving
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,architecture,git" />
+</p>
+
+- 🧱 Advanced Flutter Architecture  
+- 🧼 Clean Architecture  
+- ⚡ Performance Optimization  
+- 🏗 Scalable System Design  
+
 
 ---
 
-⭐ Always building. Always improving.
+## 🎯 Career Vision
+
+> Building scalable, maintainable, and high-performance mobile applications  
+> with clean architecture and strong business logic.
+
+<p align="center">
+  ⭐ Always building. Always improving.
+</p>
+
+---
